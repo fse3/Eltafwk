@@ -271,3 +271,6 @@ body.rtl .number {
 body.rtl .info-box {
     align-items: center;
 }
+#20-EGP {
+    color: red;
+}
